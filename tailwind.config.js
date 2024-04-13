@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        oswald: ["oswald", "sans-serif"],
+        oswald: ["oswald", "sans-serif", "open-sans"],
       },
       colors: {
         textColor: "#FDF0D5",

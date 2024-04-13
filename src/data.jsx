@@ -3,7 +3,7 @@ export const data = [
     title: "Fika",
     description:
       "Created an engaging original video edit for “Fika”, a coffee shop located in Iloilo City. Used manual slow transitions and static close ups, used a slow song and matched it with the clips and added filters to have a slow vintage vibe.",
-    source: null,
+    source: "https://www.youtube.com/watch?v=ERmtjRqWNcY",
   },
   {
     title: "Camiña Balay Nga Bato",
