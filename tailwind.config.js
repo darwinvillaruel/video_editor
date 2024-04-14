@@ -8,6 +8,7 @@ export default {
       },
       colors: {
         textColor: "#FDF0D5",
+        titleColor: "#f6bd60",
       },
     },
   },
