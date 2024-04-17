@@ -6,12 +6,12 @@ import { FaMoneyCheck } from "react-icons/fa6";
 import { motion } from "framer-motion";
 
 const Header = () => {
-  const size = "size-9";
+  const size = "size-6";
 
   return (
     <div className="text-textColor mb-10">
-      <h1 className="text-8xl font-oswald my-3">Marcus Adrian Go</h1>
-      <p className="text-3xl font-oswald my-3">👨‍💻 a video editor...</p>
+      <h1 className="text-5xl sm:text-8xl font-oswald my-3">Marcus Adrian Go</h1>
+      <p className="text-2xl sm:text-3xl font-oswald my-3">👨‍💻 a video editor...</p>
 
       <div className="flex space-x-4">
         <motion.a
